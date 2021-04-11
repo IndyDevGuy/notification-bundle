@@ -3,10 +3,16 @@
   "license": "MIT",
   "description" : "A simple Symfony 3 bundle for user notifications",
   "type" : "symfony-bundle",
-  "authors" : [{
-    "name" : "Maximilien Gilet",
-    "email" : "maximilien248@gmail.com"
-  }],
+  "authors" : [
+    {
+      "name" : "Maximilien Gilet",
+      "email" : "maximilien248@gmail.com"
+    },
+    {
+      "name" : "IndyDevGuy",
+      "email" : "contact@indydevguy.com"
+    }
+  ],
   "keywords" : [
     "symfony notification bundle simple"
   ],
